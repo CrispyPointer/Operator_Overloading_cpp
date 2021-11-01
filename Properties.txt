@@ -1,0 +1,8 @@
+File name: JFMAbstract.txt
+Number of characters is: 338
+Number of words is: 47
+
+File name: PhysicaDAbstract.txt
+Number of characters is: 221
+Number of words is: 29
+The file named: JFMAbstract.txt has less lines than PhysicaDAbstract.txt

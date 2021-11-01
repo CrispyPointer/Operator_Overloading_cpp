@@ -1,0 +1,10 @@
+A conservation law model for 
+bidensity suspensions on an incline 
+JTWong, ALBertozzi 
+                     
+The particles migrate 
+within the fluid 
+due to a combination 
+of gravity-induced 
+settling and 
+shear induced migration.

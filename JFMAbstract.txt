@@ -1,0 +1,6 @@
+A first-principle predictive theory for a sphere falling 
+through sharply stratified fluid at low Reynolds number 
+RCAMASSA, CFALCON, JLIN, RM.MCLAUGHLIN and NMYKINS 
+               
+A sphere exhibits a prolonged residence time when setting through a stable stratification of miscible fluids 
+due to the deformation of the fluid-density field.
